@@ -7,9 +7,9 @@
 4. MAIN WINDOW:  gives different option like deposit money, check balance, withdraw, change password, Return card
 # FOR RUNNING THE FILE
 
-Install MySQL database
-Install tkinter and pymysql package using 
+1. Install MySQL database
+2. Install tkinter and pymysql package using 
 ->pip install tkinter
 ->pip install pymysql
-Create database ATM
-In ATM database create table for name, password, balance as rows in the table
+3. Create database ATM
+4. In ATM database create table for name, password, balance as rows in the table
